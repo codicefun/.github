@@ -1,2 +1,2 @@
-# Codicefun
-## Just for Fun
+## .github
+Readme file for organization
